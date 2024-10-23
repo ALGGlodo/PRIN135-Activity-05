@@ -32,7 +32,10 @@ main {
    flex-wrap: wrap;
    justify-content: center;
    gap: 8px;
-   
+   padding: 20px;
+   flex-grow: 2;
 }
+
+
 
 
